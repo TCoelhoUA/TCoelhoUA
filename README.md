@@ -4,10 +4,10 @@
 <div align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=tcoelhoua&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=tcoelhoua&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide=css,html"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=tcoelhoua&show_icons=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tcoelhoua&show_icons=true&include_all_commits=true&count_private=true&hide=css,html" />
   </picture>
 
   <picture height="150em">
@@ -15,7 +15,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tcoelhoua&amp;layout=compact&amp;langs_count=8&theme=dark&hide=css,html"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcoelhoua&layout=compact&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcoelhoua&layout=compact&langs_count=8&hide=css,html" />
   </picture>
 </div>
   
