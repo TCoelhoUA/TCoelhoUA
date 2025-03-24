@@ -1,4 +1,4 @@
-<h1 align="center">Hi! &#128075;</h1>
+<h1 align="center">Tiago Coelho &#x1f407;</h1>
 <br>
 
 <div align="center">
@@ -7,10 +7,6 @@
       srcset="https://github-readme-stats.vercel.app/api?username=tcoelhoua&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tcoelhoua&show_icons=true&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
     <img src="https://github-readme-stats.vercel.app/api?username=ttabelhaxd&show_icons=true&include_all_commits=true&count_private=true" />
   </picture>
 
@@ -18,10 +14,6 @@
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tcoelhoua&amp;layout=compact&amp;langs_count=8&theme=dark&hide=css,html"
       media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tcoelhoua&amp;layout=compact&amp;langs_count=8&theme=dark&hide=css,html"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttabelhaxd&layout=compact&langs_count=8" />
   </picture>
